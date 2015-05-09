@@ -1,0 +1,15 @@
+total: 490
+training: 335
+Business: 4 / 10
+IslamicTopics: 10 / 12
+PoliticalNews: 49 / 63
+SportsPress: 66 / 98
+BroadcastNews: 4 / 5
+Interviews: 14 / 18
+ScientificPress: 35 / 51
+PhrasesOfCommonWords: 4 / 6
+ArabicLiterature: 17 / 24
+PoliticalDebate: 12 / 22
+GeneralNews: 107 / 159
+ArabicDictionaries: 6 / 12
+Legal: 7 / 10

@@ -1,0 +1,2 @@
+Total ngrams = 8
+Number of n-grams that occurred   1 time(s) =     8 (100.00 percent)

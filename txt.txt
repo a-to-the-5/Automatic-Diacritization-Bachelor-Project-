@@ -1,0 +1,47 @@
+\RL{|'}&'&C1\\
+\RL{'A}&\textbar &C2\\
+\RL{'}& $>$ &C3\\
+\RL{|u'}&\& &C4\\
+\RL{'i}&$<$&C5\\
+\RL{|i'}&\}&C6\\
+\RL{a}&A&C7\\
+\RL{b}&b&C8\\
+\RL{T}&p&C9\\
+\RL{t}&t&CA\\
+\RL{_t}&v&CB\\
+\RL{^g}&j&CC\\
+\RL{.h}&H&CD\\
+\RL{_h}&x&CE\\
+\RL{d}&d&CF\\
+\RL{_d}&*&D0\\
+\RL{r}&r&D1\\
+\RL{z}&z&D2\\
+\RL{s}&s&D3\\
+\RL{^s}&\$&D4\\
+\RL{.s}&S&D5\\
+\RL{.d}&D&D6\\
+\RL{.t}&T&D7\\
+\RL{.z}&Z&D8\\
+\RL{`}&E&D9\\
+\RL{.g}&g&DA\\
+\RL{-}&\_ &E0\\
+\RL{f}&f&E1\\
+\RL{q}&q&E2\\
+\RL{k}&k&E3\\
+\RL{l}&l&E4\\
+\RL{m}&m&E5\\
+\RL{n}&n&E6\\
+\RL{h}&h&E7\\
+\RL{w}&w&E8\\
+\RL{y}&Y&E9\\
+\RL{_A}&y&EA\\\fullvocalize
+\RL{|BaN}&F&EB\\
+\RL{|BuN}&N&EC\\
+\RL{|BiN}&K&ED\\
+\RL{|Ba}&a&EE\\
+\RL{|Bu}&u&EF\\
+\RL{|Bi}&i&F0\\
+\RL{|BB}&\~{}&F1\\
+\RL{|B}&o&F2\\
+\RL{_a}&`&??\\
+\RL{a}&\{&??\\
